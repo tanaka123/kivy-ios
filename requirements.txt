@@ -4,3 +4,17 @@ requests>=2.13
 cookiecutter==2.1.1
 sh==1.12.14
 Cython==0.29.17
+python>=3.9,<3.12
+kivymd==1.1.1
+openai==0.27.2
+whisper==1.1.10
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+requests==2.28.2
+python-dotenv==1.0.0
+asynckivy==0.5.4
+kivy-garden==0.1.5
+Pygments==2.10.0
+PyInstaller==5.9
+pyenchant==3.2.2
+kivy==2.1.0
